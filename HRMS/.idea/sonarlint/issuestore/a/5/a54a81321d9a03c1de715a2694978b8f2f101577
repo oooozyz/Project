@@ -1,0 +1,19 @@
+
+’	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ı›ìs8¨ã…×ÿ1J$e1460272-b852-4539-8c6b-d7e1fa23eb71
+˜	java:S117;"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şÜ±”úÿÿÿÿ8¨ã…×ÿ1J$fc15cf65-c610-4b2e-ba78-3cc6e20152e5
+j
+java:S1604l"(Make this anonymous inner class a lambda(ûß ]8¨ã…×ÿ1J$b51fa04a-65d7-441c-a960-29fe77b75871
+k
+java:S1604u"(Make this anonymous inner class a lambda(Áµ¿Ò8¨ã…×ÿ1J$362263a1-f04e-46a6-8f80-49dfa1ed3716
+k
+java:S1604~"(Make this anonymous inner class a lambda(ó º‘8¨ã…×ÿ1J$289b56e8-99f3-4d34-8f0b-68b78a61a454
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Î‹üş8®ã…×ÿ1J$cb5bcc87-9f0d-40d3-a0f5-a9f2f15c1ae2
+
+java:S1128	"GRemove this unused import 'javax.swing.table.DefaultTableCellRenderer'.(ÈĞ“ìşÿÿÿÿ8åã…×ÿ1J$99a464ea-6364-4ec7-b08a-ce09f85383d4
+ˆ
+java:S1128
+"@Remove this unused import 'javax.swing.table.DefaultTableModel'.(è†åûÿÿÿÿ8åã…×ÿ1J$d59eb028-dcfd-4325-b94e-a3b190d9f89b
+‚
+java:S1128"@Remove this unused import 'javax.swing.table.TableCellRenderer'.(É¡“8åã…×ÿ1J$629aa905-caf2-421f-a154-7884eb5a07da
+{
+java:S1128"9Remove this unused import 'javax.swing.table.TableModel'.(ó£”+8åã…×ÿ1J$5c19a5e1-8b75-4430-9623-dc63ba3124e1

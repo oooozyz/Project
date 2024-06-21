@@ -1,0 +1,11 @@
+
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Û·óJ$ba95cb1d-1ae0-41fc-81c6-296252910675
+¡	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(—†ø÷ıÿÿÿÿ8®õ“Óñ1J$ecec3984-30fd-4b55-a183-8df4aa6669ae
+¡	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ØßªŞÿÿÿÿÿ8öœ”Óñ1J$0dbf3dde-eb18-4b05-95e6-592d1fd88bc6
+›	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ûæ†8öœ”Óñ1J$8afb6b7c-5b10-4fe5-95ae-92f887223a99
+¡	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(±¹“—ùÿÿÿÿ8û÷”Óñ1J$e0e9eb63-ea16-418f-8149-d3f7760ff2a6
+{
+java:S1118
+":Add a private constructor to hide the implicit public one.(î»£ÏúÿÿÿÿJ$2bfc00bb-d445-43ab-b6d5-dbeedb780c3b
+y
+java:S6437"6Revoke and change this password, as it is compromised.(ñÎ®8ÿœ”Óñ1J$ff4bea8d-50ff-4288-a00b-2f020fefbc58

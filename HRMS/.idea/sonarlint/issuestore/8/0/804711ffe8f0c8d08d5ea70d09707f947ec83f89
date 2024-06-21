@@ -1,0 +1,27 @@
+
+’	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ı›ìs8­ÍÉô1J$094ee30c-d11b-4654-b518-37f6e472dbfa
+p
+java:S1604/"(Make this anonymous inner class a lambda(¥ã«Ûûÿÿÿÿ8»…ÌÉô1J$311b1e00-49fc-4f17-9555-12da522b52d8
+p
+java:S1604O"(Make this anonymous inner class a lambda(êØÏğÿÿÿÿÿ8»…ÌÉô1J$1acd57fd-ea94-4253-9907-da5dd11f1db4
+k
+java:S1604W"(Make this anonymous inner class a lambda(ÍË¥“8»…ÌÉô1J$12475a35-569a-494f-9404-87d39b80a0e1
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(òø­ñüÿÿÿÿ8¼…ÌÉô1J$0a6b6f0c-db76-4762-957d-edd9cabb8752
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Î‹üş8¾…ÌÉô1J$820cc71c-0be6-41c6-987c-a42157e3a011
+‘	java:S116"ORename this field "Next" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çËª‰8Ê…ÌÉô1J$409f995f-9523-4f4b-a738-4f1646dc9710
+‘	java:S116"ORename this field "Back" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ö†åÂ8Ê…ÌÉô1J$178fe9a9-b19a-4abe-b82a-9b64a3be9567
+Ÿ	java:S116"XRename this field "DepartmentBox" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äŒµ“ıÿÿÿÿ8Ê…ÌÉô1J$a0581641-69c6-46ef-892a-85cee213194e
+™	java:S116"RRename this field "PostBox" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äŒµ“ıÿÿÿÿ8Ê…ÌÉô1J$025db215-608d-4363-93b4-479ea8b04f8a
+š	java:S116"SRename this field "TitleBox" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äŒµ“ıÿÿÿÿ8Ê…ÌÉô1J$f8a1502d-2159-44dc-8828-04322dd2ef4e
+Ÿ	java:S116"]Rename this field "DepartmentBoxModel" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úÏôÓ8Ê…ÌÉô1J$485dfbd8-e796-4b2f-960a-9be1e8f09675
+™	java:S116"WRename this field "PostBoxModel" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úÏôÓ8Ê…ÌÉô1J$a884dfe3-e7ff-4f31-94b5-cc7658a0f398
+š	java:S116"XRename this field "TitleBoxModel" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úÏôÓ8Ê…ÌÉô1J$04f25081-e50a-4475-bbd1-5430c7650b13
+Œ
+java:S1659"DDeclare "PostBox" and all following declarations on a separate line.(äŒµ“ıÿÿÿÿ8Í…ÌÉô1J$48fd35bd-3c1f-44d1-be62-c12cc901c917
+Œ
+java:S1659"IDeclare "PostBoxModel" and all following declarations on a separate line.(úÏôÓ8Í…ÌÉô1J$de92e7fb-5431-4c24-aeaa-2a0beb958638
+¤
+java:S1450"aRemove the "DepartmentBoxModel" field and declare it as a local variable in the relevant methods.(úÏôÓ8Î…ÌÉô1J$c3963d2a-4ebe-4a1e-8e9e-b47aba644e65
+	java:S100a"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ô¦ÓÈ8Ö…ÌÉô1J$9813faec-63ab-436b-ae10-670479f77f99
+	java:S100‹"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜é÷(8Ù…ÌÉô1J$7cbefaae-1733-46d5-8c60-fe915512c93c
+‘	java:S100•"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªÑãû8Ú…ÌÉô1J$bf8fdd3e-020f-42b3-8c6d-6e7c128e11b8

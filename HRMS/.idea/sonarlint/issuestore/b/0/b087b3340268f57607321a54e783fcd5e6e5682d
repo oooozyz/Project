@@ -1,0 +1,13 @@
+
+’	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ı›ìs8ûš¯ˆ÷1J$1c03941e-6599-4882-8d5a-1e4980fa5bbf
+“	java:S1178"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Û¡™ß8üš¯ˆ÷1J$ae407e2e-cd22-4eeb-9d44-ccceeff2c7c0
+p
+java:S1604A"(Make this anonymous inner class a lambda(êØÏğÿÿÿÿÿ8ıš¯ˆ÷1J$337472d8-8827-4ea4-9be1-e418dd6959c3
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Î‹üş8›¯ˆ÷1J$11ecca14-f77a-4a5c-9fad-6d33fae5f305
+‘	java:S116"ORename this field "Back" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ö†åÂ8Ã›¯ˆ÷1J$4f4f65ee-96cf-4a66-a108-34b5b8001838
+œ
+java:S1450"TRemove the "table" field and declare it as a local variable in the relevant methods.(ÑÂÿÿÿÿÿ8Î›¯ˆ÷1J$34ae8056-3848-491f-ba6e-b9b615888c66
+œ
+java:S1450"YRemove the "tableModel" field and declare it as a local variable in the relevant methods.(ˆßÄ¯8Ï›¯ˆ÷1J$e38277d5-263b-4cfa-bae1-3da723df47eb
+œ
+java:S30121"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(ãËïé8à›¯ˆ÷1J$99c19754-bf07-4bde-982f-2a58cedb393d

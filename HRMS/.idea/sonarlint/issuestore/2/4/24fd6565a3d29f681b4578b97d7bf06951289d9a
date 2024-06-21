@@ -1,0 +1,12 @@
+
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Š¢›ÍûÿÿÿÿJ$04ed70d5-4389-44a1-bb15-25391d2755d4
+{
+java:S1118":Add a private constructor to hide the implicit public one.(‚³ÚûÿÿÿÿJ$aacf5426-6bc3-4b2a-b469-5fc51166a7a8
+	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üçöëøÿÿÿÿJ$362565cc-02e6-4311-a53c-4b671b3b50b2
+`
+java:S1168"$Return an empty map instead of null.(¥¹ïJ$4d4eb87c-0530-41e8-95c8-e5593dea6639
+‰	java:S100'"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®…Ò†J$538ddc74-3ba6-43b6-a8aa-2d22a5498ee9
+‰	java:S1000"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÕºJ$745564e2-fec8-4741-b467-086246f890a7
+{	java:S8994";Do something with the "boolean" value returned by "delete".(²Œ­ûÿÿÿÿJ$bcf3e278-a472-4309-a939-22c40981dd7b
+
+java:S40424"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(²Œ­ûÿÿÿÿJ$8cecdee1-0246-4b99-8755-b5e6abb61e15

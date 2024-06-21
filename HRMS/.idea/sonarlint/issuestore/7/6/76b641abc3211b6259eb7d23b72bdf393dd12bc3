@@ -1,0 +1,12 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Û·ó8Ğ€ÎÂô1J$bfe556ac-7274-4492-8b46-35daa059a48e
+}
+java:S1118":Add a private constructor to hide the implicit public one.(‡‡âé8Ü€ÎÂô1J$7babbc88-ff8f-441c-afdb-ae1f02da7ff9
+	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€ı¯8á€ÎÂô1J$47d39a6b-691e-4729-889a-e82340156de2
+„
+java:S1126!"AReplace this if-then-else statement by a single return statement.(Ãİ£á8ã€ÎÂô1J$e67ce6cc-5000-4720-bbd0-146f785fa29a
+m
+java:S1197)"*Move the array designators [] to the type.(Ş‡•—8å€ÎÂô1J$c2684e2a-affd-470a-a97f-422ba4a30943
+•	java:S1004"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—Ÿö‘ıÿÿÿÿ8æ€ÎÂô1J$ea25ad24-c25e-4a63-a01c-91efaecceae6
+•	java:S1008"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óİ¾ÿÿÿÿÿ8é€ÎÂô1J$881467f1-b566-4510-b5e5-e2ef2640100f
+•	java:S100="NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íÜ­šüÿÿÿÿ8ì€ÎÂô1J$86615cc4-7f89-4df9-aaa6-cda043aaffc0

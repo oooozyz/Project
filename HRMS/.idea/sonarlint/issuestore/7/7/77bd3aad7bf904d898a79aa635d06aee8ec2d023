@@ -1,0 +1,65 @@
+
+”
+java:S1192"LDefine a constant instead of duplicating this literal "base_salary" 3 times.(»Ñôæûÿÿÿÿ8ø¦£İÿ1J$e06f0a46-ea28-4e48-8a74-6dc73dac8090
+‘
+java:S1192"NDefine a constant instead of duplicating this literal "magnification" 3 times.(öø¼ş8ù¦£İÿ1J$d2ee9ec9-264d-4b1a-9d11-fd6c2ebb1d06
+´
+java:S1319‹"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ëù„Ù8û¦£İÿ1J$b971984a-a005-4926-902e-b94259960ae6
+¹
+java:S1319¤"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(¯Æ˜îøÿÿÿÿ8û¦£İÿ1J$7d098945-3337-40fa-b92b-55faab38fc42
+¹
+java:S1319Î"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ü¨²‚ùÿÿÿÿ8ü¦£İÿ1J$15f82eb0-36ce-4f35-8648-621f48f0443b
+˜	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»Ñôæûÿÿÿÿ8ı¦£İÿ1J$b0aa9fed-bb2e-4fa1-ba38-d6d2387fffc4
+“	java:S117>"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹‚¿Î8ı¦£İÿ1J$fbd9a7ed-7ba6-494a-b2ba-3f8ca53e0847
+“	java:S117@"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£¤¹·8ı¦£İÿ1J$9062c683-b429-415d-820e-781fbc1844f9
+”	java:S117‹"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š„¾»8ı¦£İÿ1J$04c1137a-20ad-4f2b-b19e-405a87306e90
+™	java:S117Í"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŒÛ§Óøÿÿÿÿ8ş¦£İÿ1J$8c749cfb-c830-423b-b655-530634ebd542
+”	java:S117Î"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀÇ´«8ş¦£İÿ1J$1ec0c2f7-06f2-4216-8a89-d11488648587
+™	java:S117ì"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—®ï¿úÿÿÿÿ8ş¦£İÿ1J$d486f59b-9129-409b-9db2-0695608c92b7
+”	java:S117í"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦˜‡£8ş¦£İÿ1J$46749716-50d3-4ee7-bd21-668d09c1d05d
+”	java:S117Ù"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—ê¦€8ş¦£İÿ1J$54df9888-4cd6-4497-9f66-f05bc5b98915
+™	java:S117Û"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÔßÓ²ıÿÿÿÿ8ş¦£İÿ1J$3a3a530d-8852-4f91-a725-9d09d73fe2b2
+™	java:S117ï"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õàº²ÿÿÿÿÿ8ş¦£İÿ1J$11b39bc9-93b7-4635-82ba-add44a30554a
+™	java:S117ğ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–şò¸øÿÿÿÿ8ş¦£İÿ1J$9a0c2cf0-ec4c-48ed-bdc7-2c16357ccdb7
+™	java:S117ñ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì­‹øÿÿÿÿ8ş¦£İÿ1J$38bd230b-dcc6-4109-8e58-a8a7bdd3e108
+™	java:S117ò"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Åúî—øÿÿÿÿ8ş¦£İÿ1J$deadda69-166e-45aa-be88-7e783b4c0f6a
+”	java:S117÷"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üç8ş¦£İÿ1J$142ef5c7-ea30-4f7c-9c38-f4caaf9f8f5e
+™	java:S117ù"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(á®ËÏúÿÿÿÿ8ş¦£İÿ1J$2b7555c2-526b-4d8c-84bf-4d233ddfe4c9
+¥
+java:S1488º"\Immediately return this expression instead of assigning it to the temporary variable "date".(Ë—†ûÿÿÿÿ8ÿ¦£İÿ1J$155e7432-532d-4999-b02c-db755d36786a
+£
+java:S1488Ì"_Immediately return this expression instead of assigning it to the temporary variable "whether".(›¥¾Â8€§£İÿ1J$49b7aad4-76c7-4625-99d8-9372eee4a6f4
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ş¹óˆ8§£İÿ1J$d7ed2d2a-b6a3-4455-bc7a-a9cf1bc139b7
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Úëã¿8…§£İÿ1J$882f417a-8a4a-4702-af88-cab429899f63
+›
+java:S1845y"XRename method "getConEmp" to prevent any misunderstanding/clash with method "GetConEmp".(ãœîİ8Ù§£İÿ1J$6c5120e6-d115-4ab7-acb0-0fc5f9cad98a
+	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ï¿«‚8ß§£İÿ1J$4bd94d20-24e0-4383-b505-5c08e9ad8f45
+•	java:S100,"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åæ­Æúÿÿÿÿ8ä§£İÿ1J$c7507720-b188-49bd-9f0a-e3d526dde0f1
+	java:S100>"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹‚¿Î8å§£İÿ1J$2b459047-cf8e-4c0b-a443-fe6197b96005
+–	java:S100Í"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å¡¬Éùÿÿÿÿ8ğ§£İÿ1J$e200640e-bd4c-4a8c-8c19-97d300f04abc
+–	java:S100æ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ù–Œåüÿÿÿÿ8ó§£İÿ1J$2e40f712-8dc2-4c81-a31a-f60c482c36e2
+‘	java:S100û"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õªŠŠ8õ§£İÿ1J$cd9e078e-138a-47e6-9358-e184292ff90b
+‘	java:S100Œ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á“®ó8ö§£İÿ1J$51211d92-bbea-4b74-a868-2d08c41df268
+x
+java:S1874"/Remove this use of "getYear"; it is deprecated.(ÉšßÜıÿÿÿÿ8ûî¤İÿ1J$7f158eca-3cd3-4b2c-85cc-fd7ed00689a9
+t
+java:S1874"0Remove this use of "getMonth"; it is deprecated.(å¤æ¤8ıî¤İÿ1J$03a811c5-560d-447a-beef-25f58ae2c033
+s
+java:S1874"/Remove this use of "getDate"; it is deprecated.(’‹Åş8şî¤İÿ1J$df182775-92ef-4f9f-a136-f612becdd5cd
+–	java:S100º"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾Ñîşÿÿÿÿ8û§£İÿ1J$0cc71190-8622-4821-bb65-f725d2691f5d
+–	java:S100Í"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŒÛ§Óøÿÿÿÿ8ş§£İÿ1J$1b50f82c-5b46-4d15-bd30-5112ec5b82c4
+–	java:S100ì"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—®ï¿úÿÿÿÿ8¨£İÿ1J$cc1a76e6-b048-4530-9195-a0e1527af9e4
+‘	java:S100‹"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëù„Ù8ƒ¨£İÿ1J$a2a6f838-4545-4268-b867-1eaf209062c5
+–	java:S100¤"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯Æ˜îøÿÿÿÿ8…¨£İÿ1J$f22b9e46-c929-430d-af4f-6c52206f5244
+–	java:S100½"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÃØçıÿÿÿÿ8‡¨£İÿ1J$c8c937b9-dcb4-4751-9f22-6e7609d858cb
+–	java:S100Î"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü¨²‚ùÿÿÿÿ8ˆ¨£İÿ1J$b2261f9b-c316-458a-bc0a-2114556b15e3
+c
+java:S6905Ğ"Don't use the query "SELECT *".(İÊ®ü8Š¨£İÿ1J$1eae1b36-2898-4af5-8f16-ab6bfb1bcf84
+‘	java:S100î"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”ª8¨£İÿ1J$3d4a1ed9-5bdb-47ce-9dd4-c07c93918d33
+‘	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨“Ì‘8¨£İÿ1J$1181ea9b-d793-4a2d-96c6-1aa086ad7985
+j
+java:S1168§"&Return an empty array instead of null.(¥¹ï8”¨£İÿ1J$133660aa-24d7-440c-8a83-447b598d3866
+–	java:S100×"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ŞÉ’ûÿÿÿÿ8˜¨£İÿ1J$32c95e93-6668-44b6-8411-317a4b53479b
+–	java:S100è"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã² úÿÿÿÿ8›¨£İÿ1J$4d961ef4-9063-4c14-a9e4-0c337ac93a80
+z
+java:S1128"7Remove this unused import 'hrms.ZMGFH.Tools.TimeTools'.(Æšº¼8ÿ¨°İÿ1J$977b14fc-7c43-4308-b1df-475786eeb3d2

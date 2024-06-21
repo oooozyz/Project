@@ -1,0 +1,64 @@
+
+’	java:S1171"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ı›ìs8ÿÓôßÿ1J$b6237013-e4d5-47dc-ad4e-b3fddf94436b
+˜	java:S117a"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä¢ä÷şÿÿÿÿ8€Ôôßÿ1J$b97c404b-edb3-4d76-8171-ac4abea16233
+˜	java:S117b"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×ÙÏ¼üÿÿÿÿ8€Ôôßÿ1J$0e81a4b8-524c-4441-a7e6-14534c633079
+“	java:S117c"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üÖ„¨8€Ôôßÿ1J$aa427667-7c04-43b7-977a-dc83fe340b70
+˜	java:S117g"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬û”Îúÿÿÿÿ8€Ôôßÿ1J$43873fd7-15c6-4fc2-8149-39dc69ca9369
+”	java:S117¦"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›ÇïÏ8Ôôßÿ1J$0b995dc4-36c6-4654-9b1e-1815747dfb4e
+“	java:S117Ö"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ı›ìs8Ôôßÿ1J$7807ee5f-0fe2-4c62-b588-be9f28a13f64
+™	java:S117Ü"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹§ „øÿÿÿÿ8Ôôßÿ1J$48fa03b1-06de-4a34-9cb1-e26c1980936a
+”	java:S117à"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âóô´8Ôôßÿ1J$cd2fd0d9-328c-4fff-9905-8b4663f44cee
+p
+java:S1604]"(Make this anonymous inner class a lambda(¥ã«Ûûÿÿÿÿ8ƒÔôßÿ1J$610857c5-5c89-473d-a931-673e8107d9cd
+q
+java:S1604¬"(Make this anonymous inner class a lambda(êØÏğÿÿÿÿÿ8ƒÔôßÿ1J$7457299e-9bab-45e0-b4c7-51a87eb4aa5b
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÊÄ•Ñıÿÿÿÿ8†Ôôßÿ1J$bfc0dae1-a1e5-4a6c-a81a-fb54c5d7ca8e
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Î‹üş8‰Ôôßÿ1J$ec872198-55fc-49cc-9ff1-62a64ca29d82
+‘	java:S116"ORename this field "Next" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çËª‰8»Ôôßÿ1J$cd5a2aeb-ae99-4070-8cce-6fbed227370b
+‘	java:S116"ORename this field "Back" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ö†åÂ8»Ôôßÿ1J$756bd902-512f-4e71-9770-b5631c1eedfa
+	java:S116"\Rename this field "phone_numberField" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñ—ˆ‚8»Ôôßÿ1J$fc2d893c-90ca-4533-97fe-37aba07615d3
+	java:S116"VRename this field "e_mailField" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Óÿ¼âúÿÿÿÿ8»Ôôßÿ1J$b21be34a-3b90-4365-9802-63ce1dfcdd91
+	java:S116"[Rename this field "card_numberField" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(á•ç 8»Ôôßÿ1J$7210a0fe-70bd-4e11-a2b8-6b394506b9a9
+£	java:S116""\Rename this field "marital_statusBox" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ç­Ñÿÿÿÿÿ8»Ôôßÿ1J$e1eeab91-5dba-47e6-9359-487ac7bf1f0b
+£	java:S116$"aRename this field "marital_statusBoxModel" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘ªî«8»Ôôßÿ1J$2ee3f2a8-0583-4ed7-b4e4-785a118a8591
+‘
+java:S1659""IDeclare "educationBox" and all following declarations on a separate line.(Ç­Ñÿÿÿÿÿ8ÂÔôßÿ1J$5fd84855-faec-422c-8316-2c65df823bbe
+‘
+java:S1659$"NDeclare "educationBoxModel" and all following declarations on a separate line.(‘ªî«8ÃÔôßÿ1J$2fed44cb-59e1-4360-a654-1b4bd350c98c
+¢
+java:S1450#"ZRemove the "ageBoxModel" field and declare it as a local variable in the relevant methods.(Á°‹×øÿÿÿÿ8ÄÔôßÿ1J$3c160dc1-b9d4-4e1f-a832-10aa9580c123
+£
+java:S1450$"`Remove the "educationBoxModel" field and declare it as a local variable in the relevant methods.(‘ªî«8ÆÔôßÿ1J$857df0a8-48fb-4917-be72-50df9154806f
+ 
+java:S1450$"]Remove the "genderBoxModel" field and declare it as a local variable in the relevant methods.(‘ªî«8ÆÔôßÿ1J$759e5fee-2290-4d4f-b236-4e6351a81765
+¨
+java:S1450$"eRemove the "marital_statusBoxModel" field and declare it as a local variable in the relevant methods.(‘ªî«8ÆÔôßÿ1J$b6668a53-fb4b-439a-9f8c-ce86cebfe0a7
+y
+java:S1948("1Make "identityJudging" transient or serializable.(ŒÃ«Åüÿÿÿÿ8ÇÔôßÿ1J$f865d907-a9ce-4be1-88f9-90df0c8561cd
+q
+java:S1948)".Make "emailJudging" transient or serializable.(¶Ùé8ÇÔôßÿ1J$a1529415-13fd-4fa2-9deb-34f7a11f0c26
+v
+java:S1948*".Make "phoneJudging" transient or serializable.(³·ÛÆÿÿÿÿÿ8ÇÔôßÿ1J$b9bd3de3-f8e0-4eb0-9f33-9c3dcf69b67d
+p
+java:S1948+"-Make "bankJudging" transient or serializable.(ìÚµÿ8ÈÔôßÿ1J$1bf65d44-0b80-40e7-a68b-84b6d25d94ee
+}
+java:S1161L":Add the "@Override" annotation above this method signature(“–ış8ÔÔôßÿ1J$a9eaf316-e166-4467-8e07-71a592e936d5
+š
+java:S3776\"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(¨è†ùÿÿÿÿ8×Ôôßÿ1J$3f58c4a1-f83e-4da9-836a-90e1273b0226
+
+java:S2696“"6Make the enclosing method "static" or remove this set.(ş¨ª×ıÿÿÿÿ8áÔôßÿ1J$1b181fa2-af70-4ee3-984a-6078d94f9695
+
+java:S2696”"6Make the enclosing method "static" or remove this set.(İ‚€šıÿÿÿÿ8áÔôßÿ1J$8c31089f-7ec9-47e1-94fa-11dbb716f270
+z
+java:S2696™"6Make the enclosing method "static" or remove this set.(ú”Œ‚8áÔôßÿ1J$e44f922a-fb8b-4568-b6d3-b7ccc2241479
+‘	java:S100µ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ô¦ÓÈ8çÔôßÿ1J$e69a57d7-69b4-4b54-89bd-e065e0408ffb
+{
+java:S1854Ö"8Remove this useless assignment to local variable "Size".(ı›ìs8éÔôßÿ1J$499345b8-4647-4611-8ccf-074a2efa04a1
+l
+java:S1481Ö")Remove this unused "Size" local variable.(ı›ìs8îÔôßÿ1J$2758d656-595f-47da-a7bc-a9aac330ecb6
+
+java:S1128"9Remove this unused import 'com.arcsoft.face.FaceFeature'.(¢ÉùÁùÿÿÿÿ8öÔôßÿ1J$f90ab755-5fad-4679-91ff-e93e59f92d03
+
+java:S1128"9Remove this unused import 'java.awt.image.BufferedImage'.(×íĞ‡şÿÿÿÿ8öÔôßÿ1J$670aa847-a0a2-4a1b-891a-5ef3eaf23dd3
+s
+java:S1068"+Remove this unused "message" private field.(å¤»¨ıÿÿÿÿ8÷Ôôßÿ1J$7fb609f9-691c-4a52-a024-90bb853a9f8a

@@ -1,0 +1,48 @@
+
+’	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ı›ìs8‘”„Ñó1J$78ae2cd0-714e-4c11-8f2e-391bd0902136
+˜	java:S117h"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âÃ‡ìÿÿÿÿÿ8‘”„Ñó1J$3a2e73fd-3f33-4c8b-adad-d18399a56f94
+˜	java:S117j"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùÒ¯–øÿÿÿÿ8‘”„Ñó1J$3282a944-f02d-482d-b9a5-ad781df1c3a9
+“	java:S117p"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™¨ìœ8’”„Ñó1J$a844af8d-5669-4b87-9c65-14258bd8f229
+˜	java:S117y"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£ƒ Àúÿÿÿÿ8’”„Ñó1J$285b425c-57ad-49f0-9ce4-752985a9240a
+”	java:S117½"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æ®¯‰8’”„Ñó1J$d68e7f4f-d714-4c4f-aeda-31a1dc2f2584
+p
+java:S1604U"(Make this anonymous inner class a lambda(·«¶™ûÿÿÿÿ8“”„Ñó1J$3bdfa231-72c5-4e85-b2d7-19ae5a2a66c7
+p
+java:S1604b"(Make this anonymous inner class a lambda(êØÏğÿÿÿÿÿ8“”„Ñó1J$144ebb19-918b-4694-9225-0b2d772d7016
+p
+java:S1604h"(Make this anonymous inner class a lambda(âÃ‡ìÿÿÿÿÿ8””„Ñó1J$7287ffe7-9f7d-47db-bc68-e9219818d22c
+k
+java:S1604p"(Make this anonymous inner class a lambda(™¨ìœ8””„Ñó1J$5fe614b4-e2d2-4853-a0e5-40697705c260
+p
+java:S1604y"(Make this anonymous inner class a lambda(£ƒ Àúÿÿÿÿ8””„Ñó1J$478636bf-9aea-463d-a611-a1f9b971b7e6
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ş±³¦ùÿÿÿÿ8•”„Ñó1J$3a1c623e-50b3-40de-b408-04a253fed716
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Î‹üş8™”„Ñó1J$5bfa5374-035b-4332-93a0-9a62b171af33
+˜	java:S116"QRename this field "Update" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿“Ñºÿÿÿÿÿ8¿”„Ñó1J$013c840b-843d-473b-92bf-000c96818242
+‘	java:S116"ORename this field "Back" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ö†åÂ8¿”„Ñó1J$17196398-7918-4202-8a65-ec67ba545c61
+™	java:S116"RRename this field "NameBox" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÓÄ„¢ùÿÿÿÿ8¿”„Ñó1J$83ab9440-a080-441a-b211-21b9fc5039e9
+™	java:S116"RRename this field "SignBox" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÓÄ„¢ùÿÿÿÿ8¿”„Ñó1J$fc0354f7-9a36-49b3-bcdb-21a12e0fcbc6
+Ÿ	java:S116"XRename this field "DepartmentBox" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÓÄ„¢ùÿÿÿÿ8¿”„Ñó1J$6c9d8876-e288-4620-9a80-b739f00da12d
+™	java:S116"RRename this field "PostBox" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÓÄ„¢ùÿÿÿÿ8¿”„Ñó1J$146b7632-8b46-4b27-a464-757bb60d31f3
+š	java:S116"SRename this field "TitleBox" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÓÄ„¢ùÿÿÿÿ8¿”„Ñó1J$35141c4a-c5a6-4ca1-8f97-64ac008d5152
+™	java:S116"WRename this field "NameBoxModel" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿú…¤8¿”„Ñó1J$c2c44f58-f5e9-4f9b-8066-55ab73ec2cb5
+™	java:S116"WRename this field "SignBoxModel" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿú…¤8¿”„Ñó1J$4d429e48-8f5c-4be1-9f10-f8f3f341931a
+Ÿ	java:S116"]Rename this field "DepartmentBoxModel" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿú…¤8¿”„Ñó1J$c7a769b4-1f87-4905-b211-bddaa513b74a
+™	java:S116"WRename this field "PostBoxModel" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿú…¤8¿”„Ñó1J$85fbca6d-3ee9-4f9f-a2a8-02cbdc57ced3
+š	java:S116"XRename this field "TitleBoxModel" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿú…¤8¿”„Ñó1J$42f575e0-4c8a-47da-94c2-aa1a0ec9d9ac
+“	java:S116"QRename this field "AllEmp" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çÇœÛ8¿”„Ñó1J$199bf621-3f5b-48ab-8e7c-634f90163d40
+Œ
+java:S1659"DDeclare "SignBox" and all following declarations on a separate line.(ÓÄ„¢ùÿÿÿÿ8Ä”„Ñó1J$09816db3-482a-42b7-8d08-e01f94b929e7
+Œ
+java:S1659"IDeclare "SignBoxModel" and all following declarations on a separate line.(ÿú…¤8Å”„Ñó1J$9f4ff94c-4822-43a5-b05c-dfb0199228eb
+
+java:S1450"[Remove the "NameBoxModel" field and declare it as a local variable in the relevant methods.(ÿú…¤8Æ”„Ñó1J$c9bb4612-27e2-4ece-aff9-3bd1e8d2e24d
+m
+java:S1948"%Make "emp" transient or serializable.(ãöñ°üÿÿÿÿ8Ç”„Ñó1J$1be38924-260b-4b0c-b0de-72963502b3ea
+k
+java:S1948"(Make "AllEmp" transient or serializable.(çÇœÛ8È”„Ñó1J$0196c0ce-2e2d-4b30-b319-1dce1ffc81ab
+‘	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ò½ûâ8İ”„Ñó1J$fa3163d8-18da-481b-abe0-0b82b5bc13cc
+‘	java:S100™"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜‚ŒÅ8Ş”„Ñó1J$6926b0bf-2c47-41b8-95d0-2636516917aa
+‘	java:S100¢"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªÑãû8ß”„Ñó1J$6cbc5d05-0ee0-48c0-a2af-f059e4f798e7
+–	java:S100«"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıî¥¦úÿÿÿÿ8à”„Ñó1J$14b8898b-66ff-4e8a-b565-e7d502b21df9
+–	java:S100¼"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÛñÚãÿÿÿÿÿ8ã”„Ñó1J$c7dfa276-799c-4732-a8bb-2580cf8801d5
+–	java:S100Ï"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™Ç…¹ıÿÿÿÿ8å”„Ñó1J$3c5e6d0e-6c92-44bc-b0dd-0ad306622b83

@@ -1,0 +1,21 @@
+
+p
+java:S1604J"(Make this anonymous inner class a lambda(‚¼áûÿÿÿÿ8ÏÃäŠ÷1J$c9e729ec-d444-4077-9946-b29531451e90
+k
+java:S1604R"(Make this anonymous inner class a lambda(Úöè¬8ÑÃäŠ÷1J$dcc9b3f4-76c4-4e3c-88eb-93be3e3affa5
+j
+java:S1604["(Make this anonymous inner class a lambda(´•²,8ÒÃäŠ÷1J$4a9efd76-7b23-4763-b00b-df8032cb720a
+p
+java:S1604b"(Make this anonymous inner class a lambda(½Ç–úúÿÿÿÿ8ÓÃäŠ÷1J$9c725f93-a0cb-498a-a57c-014c7a8d6c0b
+k
+java:S1604i"(Make this anonymous inner class a lambda(«İü8ÕÃäŠ÷1J$11b0176f-c08e-4cef-8382-85fe5b9a5f69
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Î‹üş8ŞÃäŠ÷1J$cb26b84a-867e-4bc6-8492-59665c08dd18
+š	java:S116"SRename this field "Dayflush" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŸØ¼‘ûÿÿÿÿ8ŠÄäŠ÷1J$ed222bbc-f67e-4883-b5df-0411b6a98f0c
+ˆ
+java:S1659"EDeclare "minuteOn" and all following declarations on a separate line.(ÛçÈ±8”ÄäŠ÷1J$a7c279f4-5dcf-47ef-8cc1-726afdb1cd68
+‰
+java:S1659"FDeclare "minuteOff" and all following declarations on a separate line.(è²ÄŒ8”ÄäŠ÷1J$1809d335-78d4-41c8-af12-c61a27775b63
+…
+java:S1117“"<Rename "worktime" which hides the field declared at line 18.(¿òûÿÿÿÿ8ÇÄäŠ÷1J$10e85297-0ec3-40b3-a5d1-2c83dc0940e5
+~
+java:S1117Ñ":Rename "center" which hides the field declared at line 21.(²íÍÒ8ÓÄäŠ÷1J$bc8fd45b-3911-4a4a-9174-8eefd36fc63a

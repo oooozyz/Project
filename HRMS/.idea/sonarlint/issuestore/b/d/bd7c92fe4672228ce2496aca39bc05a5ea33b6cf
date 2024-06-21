@@ -1,0 +1,23 @@
+
+“	java:S117/"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…Í½Ï8éêøÁõ1J$f90b86f6-1737-44d5-8af0-cd6bc8649ac0
+˜	java:S117t"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûãÌ¾üÿÿÿÿ8ÃıøÁõ1J$ffe9c93d-a01e-45cf-92ba-b1fbeadb2285
+k
+java:S1604V"(Make this anonymous inner class a lambda(ÜüŞÀ8ëêøÁõ1J$9f9d90f2-d22d-460e-9142-9323ee33fe8a
+k
+java:S1604]"(Make this anonymous inner class a lambda(ó º‘8ëêøÁõ1J$9e5b1128-37e1-4f2b-afee-4614e9753db7
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Î‹üş8íêøÁõ1J$e4c65ee4-b2a1-43e0-9ac3-02fb5b12f41d
+˜	java:S116"QRename this field "Search" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Î’¢üÿÿÿÿ8…ëøÁõ1J$f844355d-62f7-42c4-a0a2-cf3d3ecb7770
+n
+java:S1659"&Declare "monthBox" on a separate line.(õªÖûÿÿÿÿ8ŠëøÁõ1J$2137bb7e-2ed9-420f-b571-71b408cf0834
+n
+java:S1659"+Declare "monthBoxModel" on a separate line.(›ÚßÎ8ŠëøÁõ1J$09dcff02-932a-4b40-92b1-76b9f8492c0c
+˜
+java:S1450"URemove the "center" field and declare it as a local variable in the relevant methods.(Œ¦“8‹ëøÁõ1J$d4223256-46b7-4c39-b567-4ffe9ba2a1ba
+Ÿ
+java:S1450"\Remove the "monthBoxModel" field and declare it as a local variable in the relevant methods.(›ÚßÎ8‹ëøÁõ1J$bbdfcbb3-c97e-40eb-a1f9-2baf6b07eed0
+
+java:S1450"[Remove the "yearBoxModel" field and declare it as a local variable in the relevant methods.(›ÚßÎ8‹ëøÁõ1J$412312d3-4025-4d55-8025-2085f940e1c7
+m
+java:S1197/"*Move the array designators [] to the type.(…Í½Ï8‘ëøÁõ1J$4e86cad0-9a5c-4ae9-a72a-4f4ef9a0ea11
+m
+java:S1068"*Remove this unused "center" private field.(Œ¦“8ÆÔ¥Âõ1J$57ee5021-d0de-4049-bba0-0b6d55220611

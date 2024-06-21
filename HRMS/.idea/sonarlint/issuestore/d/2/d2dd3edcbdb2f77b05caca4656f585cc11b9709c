@@ -1,0 +1,8 @@
+
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ë¦ç³úÿÿÿÿJ$5151993b-afc8-435e-a762-6f4ecfa06825
+‰	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€÷‰¾J$c48cd3f0-6f17-4ded-99cc-e726adbc6d34
+_
+java:S1854'"=Remove this useless assignment to local variable "checkCode".(—Ûøÿÿÿÿ8ø“¤áÿ1
+P
+java:S1481'".Remove this unused "checkCode" local variable.(—Ûøÿÿÿÿ8ÿ“¤áÿ1
+X	java:S125)"<This block of commented-out lines of code should be removed.(™ïÚ8”¤áÿ1

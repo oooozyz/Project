@@ -1,0 +1,81 @@
+
+
+java:S1192ô"KDefine a constant instead of duplicating this literal "ï¼ˆç©ºï¼‰
+" 5 times.(İ…Ò€8£şÅßÿ1J$ba1719dc-4a53-4e3d-ae73-c64c6deade4d
+¸
+java:S1319\"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Àï•ıÿÿÿÿ8¤şÅßÿ1J$9f4403df-01f2-4ac2-b445-c5669618c6d6
+³
+java:S1319a"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Ï–ê¢8¦şÅßÿ1J$1a56eba1-d2b0-4d96-a3f8-0cfe05659738
+³
+java:S1319p"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(©–àç8¦şÅßÿ1J$8916743b-2014-443a-ac0e-746136f16f75
+’	java:S117&"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ññ>8§şÅßÿ1J$0c763796-94d5-4713-98a0-36282bf70a6f
+˜	java:S117+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±™üùÿÿÿÿ8§şÅßÿ1J$576fbb1f-1fd5-47cd-a201-fb11675f8bab
+“	java:S117M"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾ªíµ8§şÅßÿ1J$1fc5c747-5287-4a3a-a039-699f5d59049f
+”	java:S117Ç"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨äáı8§şÅßÿ1J$c221b81d-c372-49be-8a72-0392bb0fe916
+“	java:S117È"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÄÌ»8§şÅßÿ1J$3f4c9500-835c-4e07-a324-70a8535430d7
+™	java:S117ã"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒÊÜ¶ùÿÿÿÿ8§şÅßÿ1J$a0a47712-66f8-42cb-990c-3d23fe7db9ce
+™	java:S117î"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§âÂúÿÿÿÿ8¨şÅßÿ1J$83a288c3-a2dd-4fb8-932a-bf2937caaf97
+™	java:S117ï"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğ·¶ ûÿÿÿÿ8¨şÅßÿ1J$25cbd926-52c1-42ab-bffc-884ebc2f3072
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Š¢›Íûÿÿÿÿ8­şÅßÿ1J$5369b895-744e-46e0-a783-e08e6d625169
+‘
+java:S3824Æ"HReplace this "Map.containsKey()" with a call to "Map.computeIfAbsent()".( ‹øÿùÿÿÿÿ8ñÆßÿ1J$6fee39b9-310b-4c34-9fd4-d2af7daa6f47
+•
+java:S3008"MRename this field "DO" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º®ö¤şÿÿÿÿ8óÆßÿ1J$ff7b6200-3b7c-43c2-b74f-5525354dd0ce
+Ÿ
+java:S1845p"\Rename method "Wage_Detail" to prevent any misunderstanding/clash with method "Wage_detail".(©–àç8ôÆßÿ1J$0f05370d-4c07-40ee-8e62-7ef7ede6dd1c
+¡
+java:S1845Ö"XRename method "getConEmp" to prevent any misunderstanding/clash with method "GetConEmp".(×îµæşÿÿÿÿ8ôÆßÿ1J$e4408315-a7b5-48e5-b351-e907cd2c7966
+‚
+java:S1118":Add a private constructor to hide the implicit public one.(ÉÖñØúÿÿÿÿ8øÆßÿ1J$5e2e70ec-5d80-43f1-848d-7db12dd88ac4
+•	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Úşñåşÿÿÿÿ8úÆßÿ1J$dc636afb-fb05-4b90-91fb-1b960ac978ce
+	java:S100!"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğäè8ûÆßÿ1J$4d584631-a782-4142-82f4-da3c8b15ac35
+	java:S100&"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ññ>8üÆßÿ1J$67cf4db9-1346-4d21-8a37-24168dfd3ba9
+•	java:S100+"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±™üùÿÿÿÿ8üÆßÿ1J$ec552f66-5e3e-4b45-b189-9a94784b448c
+•	java:S100H"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ï£şÿÿÿÿ8şÆßÿ1J$c18b264c-d9e6-49ea-a87d-9f137fb1b4d5
+	java:S100M"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾ªíµ8€‚Æßÿ1J$be61196e-73a3-4153-a94d-a62cc697b5e8
+	java:S100R"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øãæ¡8‚Æßÿ1J$aff7ed2a-3483-46a8-904b-c2bc7c526326
+	java:S100W"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø«½õ8‚‚Æßÿ1J$9b797622-efe7-4aef-8499-4026e524109c
+•	java:S100\"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Àï•ıÿÿÿÿ8‚‚Æßÿ1J$ba4f087c-c021-4784-b1d4-ffa6d2dd8032
+	java:S100a"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ï–ê¢8‚‚Æßÿ1J$fe1c9b0a-dfe0-430b-8a80-1413ff82fc14
+	java:S100f"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘˜‰£8ƒ‚Æßÿ1J$60bdcf2f-5b82-4523-8a0b-29071a112b2a
+	java:S100k"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÃôÅ‡8ƒ‚Æßÿ1J$d2b52800-0206-4c6e-84ae-04aa9b3adced
+	java:S100p"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©–àç8„‚Æßÿ1J$eb823725-d758-4695-bf7e-e0638ff16839
+	java:S100u"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“§€â8„‚Æßÿ1J$2fb09b39-c622-4ac8-966f-501f4348ffa2
+	java:S100z"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ³û8…‚Æßÿ1J$a26496f1-b51b-4a1b-aa4e-7457adad16f4
+–
+java:S3776ƒ"RRefactor this method to reduce its Cognitive Complexity from 43 to the 15 allowed.(¬ñÄ–8†‚Æßÿ1J$77499776-8312-426c-be82-1e540d5a25ca
+‰
+java:S1659†"EDeclare "noonTime" and all following declarations on a separate line.(Æÿïı8Š‚Æßÿ1J$87bddc4c-0cdc-41bf-8c76-ecf7632c5f85
+ƒ
+java:S6213„":Rename this variable to not match a restricted identifier.(·ìÏşûÿÿÿÿ8‹‚Æßÿ1J$3e46220b-c3f8-4293-80ed-e7d9b468f780
+–
+java:S3776Ã"RRefactor this method to reduce its Cognitive Complexity from 41 to the 15 allowed.(³Ş‘™8“‚Æßÿ1J$a1620fae-1370-462e-adcd-eed03b619226
+~
+java:S6213Ê":Rename this variable to not match a restricted identifier.(ÓÛ¿ü8•‚Æßÿ1J$243a85d6-ae58-4aad-b4ad-4e4ee6bb4773
+}
+java:S2864Ë"4Iterate over the "entrySet" instead of the "keySet".(ùº¡ûÿÿÿÿ8–‚Æßÿ1J$fe564ba2-5281-4dba-aae1-2c09ffdd6ac3
+‘	java:S100º"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õ›ê¦8£‚Æßÿ1J$035142f7-0df1-4a3f-b29d-65cf023b9095
+}
+java:S6213¼":Rename this variable to not match a restricted identifier.(¬ı±\8¥‚Æßÿ1J$8d9ad5d7-bc37-4e51-84e8-a0e4cb0c9239
+s	java:S106¾"+Replace this use of System.err by a logger.(µ¿Ÿ¥üÿÿÿÿ8§‚Æßÿ1J$f757d845-038d-4748-9589-55d0d41e79e2
+y
+java:S1874ğ"0Remove this use of "getHours"; it is deprecated.(ºŸ™üÿÿÿÿ8…²Ìßÿ1J$a677ce73-9716-438e-9a85-bd801da3c841
+{
+java:S1874ğ"2Remove this use of "getMinutes"; it is deprecated.(ºŸ™üÿÿÿÿ8†²Ìßÿ1J$94241be1-1258-4697-86f0-5e69cab5a886
+{
+java:S1874ğ"2Remove this use of "getSeconds"; it is deprecated.(ºŸ™üÿÿÿÿ8†²Ìßÿ1J$cddf0ff4-e1c5-4a11-9687-ca60e7a6f720
+‘	java:S100Œ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·¢Ü8ƒËßÿ1J$ba59293d-202a-420a-bb73-627ead637ba8
+z
+java:S1854“"6Remove this useless assignment to local variable "op".(Å†Ü8„Ëßÿ1J$f4070890-6e71-4b0d-bfdb-58dfe3a048c7
+t
+java:S1874“"0Remove this use of "getMonth"; it is deprecated.(Å†Ü8·‚Æßÿ1J$ef272b6b-e70e-4226-8eec-abc2d0176f17
+k
+java:S1481“"'Remove this unused "op" local variable.(Å†Ü8‰Ëßÿ1J$46049bf2-5510-4489-be31-fcadd96c118c
+–
+java:S1871–"MThis branch's code block is the same as the block for the branch on line 404.(ø‡Ïÿÿÿÿÿ8¹‚Æßÿ1J$309d5919-b30f-4f74-9615-321898d0e344
+x
+java:S1874”"/Remove this use of "getYear"; it is deprecated.(±Ì¯Éÿÿÿÿÿ8‰Ëßÿ1J$cf183c20-0051-4517-b91d-24cfb419f3d0
+y
+java:S1874–"0Remove this use of "getMonth"; it is deprecated.(ø‡Ïÿÿÿÿÿ8‰Ëßÿ1J$0e88d0ad-a76c-41ce-8dcc-03391765dcc2
+Š
+java:S6541Ã"ÅA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 96 to 64, Complexity from 23 to 14, Nesting Level from 3 to 2, Number of Variables from 20 to 6.(³Ş‘™8¼‚Æßÿ1J$079f093e-2157-48f9-b9b0-00ee0402c411

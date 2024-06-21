@@ -1,0 +1,7 @@
+
+’	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ý›ìs8ñÁ¤Ÿõ1J$3b9a8e8d-8a92-434c-a0ce-9d1b7e81e845
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Î‹üþJ$8ea9221e-4c93-43c3-9774-1bfa9837d082
+v
+java:S1161":Add the "@Override" annotation above this method signature(¤€ýÕJ$c3fed837-18ec-42b8-a972-b80bb70ba86f
+M
+java:S1128	"0Remove this unused import 'javax.swing.JDialog'.(ŒÊªÉ8æ„ò¶õ1

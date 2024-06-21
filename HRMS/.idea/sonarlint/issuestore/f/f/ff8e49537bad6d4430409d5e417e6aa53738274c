@@ -1,0 +1,19 @@
+
+’	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ύ›μs8σ–΅ιτ1J$f5aa9fa9-0fce-45c9-846a-bec564f22698
+	java:S1173"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ΡÒΕΧϊÿÿÿÿ8σ–΅ιτ1J$d0ddf6c8-f42a-4298-b141-74a9729dce31
+k
+java:S16041"(Make this anonymous inner class a lambda(ΰψ©8σ–΅ιτ1J$7d5a55de-106a-4043-8956-1d364531415a
+k
+java:S16047"(Make this anonymous inner class a lambda(™α£8σ–΅ιτ1J$d14231ae-1c70-4327-8762-9e63e305646e
+k
+java:S1604="(Make this anonymous inner class a lambda(ι°»8σ–΅ιτ1J$9bc13693-c5c4-4c05-bfc6-a345381ec8d6
+p
+java:S1604D"(Make this anonymous inner class a lambda(ψγ‰ςϋÿÿÿÿ8σ–΅ιτ1J$0e5618b5-feaa-49ff-92f3-e3f97b1649f1
+p
+java:S1604L"(Make this anonymous inner class a lambda(κΨΟπÿÿÿÿÿ8σ–΅ιτ1J$ad1c8e28-c9e0-430d-a45c-01f1a5ee8c56
+	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ξ‹όώ8σ–΅ιτ1J$66988e04-7fc6-43b8-a132-2892cd60a321
+”	java:S116"RRename this field "Add_Emp" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Χτ¬8ƒ—΅ιτ1J$c56bd5ea-5ef5-465d-a30f-b3f17fdcab66
+–	java:S116"TRename this field "Filtering" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡…φ¤8ƒ—΅ιτ1J$1bdf0218-6a15-4fab-968f-cccf732e7479
+–	java:S116"URename this field "Bonus_Fine" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Τφ98ƒ—΅ιτ1J$e3d1e618-66d4-42b9-9395-eb167618eaff
+	java:S116"URename this field "Emp_Change" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(σΡ—½ϋÿÿÿÿ8ƒ—΅ιτ1J$1c31e2f8-b8f2-475e-b4fa-aeb357765c4b
+‘	java:S116"ORename this field "Back" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(φ†εΒ8ƒ—΅ιτ1J$1dc3a0c7-3453-4830-99d9-d1c9efaf5c38

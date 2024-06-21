@@ -1,0 +1,39 @@
+
+’	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ı›ìs8ÖÛöÂô1J$ba318ff9-4038-4107-bc42-7721906359ba
+˜	java:S117|"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›‹Íùÿÿÿÿ8ÖÛöÂô1J$fa26498f-c7e9-45ca-b715-07bc0f5a7dc1
+™	java:S117†"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£ƒ Àúÿÿÿÿ8ÖÛöÂô1J$a1dfa7e5-2eaa-45eb-a515-f9434adca1a6
+k
+java:S1604S"(Make this anonymous inner class a lambda(¦Ğ¹8×ÛöÂô1J$ea4ce4e3-a29f-4a86-a0cf-0a27b307cfb5
+p
+java:S1604v"(Make this anonymous inner class a lambda(êØÏğÿÿÿÿÿ8×ÛöÂô1J$4ecd5b20-e330-4213-80e7-a58f57b765cf
+p
+java:S1604|"(Make this anonymous inner class a lambda(›‹Íùÿÿÿÿ8×ÛöÂô1J$6762b090-d240-4b5d-b133-47989fb04c3f
+q
+java:S1604†"(Make this anonymous inner class a lambda(£ƒ Àúÿÿÿÿ8×ÛöÂô1J$9cec4494-453a-41e4-a024-55eab1ea99b1
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(­äÜì8ÙÛöÂô1J$f2ecf508-a5f3-4a43-b189-88d2f7f76617
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Î‹üş8ÛÛöÂô1J$f05619b3-c384-4fef-b975-8e7c40ab8cf8
+•	java:S116"NRename this field "Add" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ş·ßııÿÿÿÿ8çÛöÂô1J$e272a9fd-10fd-4f1d-97d1-eb2db724cba2
+‘	java:S116"ORename this field "Back" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ö†åÂ8çÛöÂô1J$fcd0321f-3071-4186-819c-6ebceb9dd17d
+™	java:S116"RRename this field "NameBox" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š¬ÿÒùÿÿÿÿ8çÛöÂô1J$5f8e7036-396f-4b40-bbb1-e2257088640e
+›	java:S116"TRename this field "ChooseBox" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š¬ÿÒùÿÿÿÿ8çÛöÂô1J$ce65b038-fbd2-48a4-bc00-24ab29c3959f
+›	java:S116"TRename this field "ReasonBox" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š¬ÿÒùÿÿÿÿ8çÛöÂô1J$30c66ee7-a4ec-4391-bf11-6755d6ca137c
+š	java:S116"SRename this field "MoneyBox" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š¬ÿÒùÿÿÿÿ8çÛöÂô1J$f4d7a539-17a7-437b-9575-be3d9d7ae4cb
+™	java:S116"WRename this field "NameBoxModel" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”²‰ˆ8èÛöÂô1J$fa06e154-0adb-4acd-8602-283e04db0135
+›	java:S116"YRename this field "ChooseBoxModel" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”²‰ˆ8èÛöÂô1J$eb709f4b-c987-40d8-a3d4-253d4000211b
+›	java:S116"YRename this field "ReasonBoxModel" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”²‰ˆ8èÛöÂô1J$5901420a-b7eb-496c-89ca-38d8e1321291
+š	java:S116"XRename this field "MoneyBoxModel" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”²‰ˆ8èÛöÂô1J$ca572550-6315-4abe-84e6-99f4f06997da
+
+java:S1659"FDeclare "ChooseBox" and all following declarations on a separate line.(š¬ÿÒùÿÿÿÿ8ëÛöÂô1J$36ec47bd-b23c-41de-96af-bf09ea4db2e9
+
+java:S1659"KDeclare "ChooseBoxModel" and all following declarations on a separate line.(”²‰ˆ8ëÛöÂô1J$1821284e-71d8-4f44-92ac-3e84b1ad3dc5
+
+java:S1450"[Remove the "NameBoxModel" field and declare it as a local variable in the relevant methods.(”²‰ˆ8ìÛöÂô1J$5c5baf84-eb91-4489-90cc-bb95e20f1430
+m
+java:S1948"%Make "emp" transient or serializable.(ãöñ°üÿÿÿÿ8íÛöÂô1J$f9bf85d1-7583-477f-a3c0-4d9f0f644798
+n
+java:S1948"+Make "employees" transient or serializable.(¡ŠÜ8íÛöÂô1J$20763e32-34d5-4b9b-a3cc-c31eb51ec090
+š
+java:S3776R"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(¨è†ùÿÿÿÿ8ôÛöÂô1J$aae54f4f-8a86-4445-811e-afa538be9032
+‘	java:S100œ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™õœì8ÿÛöÂô1J$29ba351f-550b-4707-9092-12723bf14daa
+–	java:S100£"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™ôƒßøÿÿÿÿ8€ÜöÂô1J$217299c5-391d-4da9-9aad-f52cc7c7faa2
+	java:S100­"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Â ^8ÜöÂô1J$44d2d5c2-e3dc-4864-81b0-421bcf3a8a43

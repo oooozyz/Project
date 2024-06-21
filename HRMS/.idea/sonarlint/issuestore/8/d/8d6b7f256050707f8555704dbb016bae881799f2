@@ -1,0 +1,11 @@
+
+š
+java:S2293?"YReplace the type specification in this constructor call with the diamond operator ("<>").(õ€¤ÔÿÿÿÿÿJ$022eae15-d406-4464-89e8-ca4861586162
+Œ	java:S117#"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™æ”¦J$b68594a0-d865-4612-8f59-858e24f17d85
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Š¢›ÍûÿÿÿÿJ$247fe2fc-f456-4c52-96a1-d329359a0177
+œ	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÆöÏ8…ãŒÓñ1J$47f5c9b2-6ac3-4d32-84a7-be06a79ab24f
+œ	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(òÑŒ8Ô÷ŒÓñ1J$3f25db2e-776f-4f43-ba86-d6b9e0763378
+¡	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ñáá¿ÿÿÿÿÿ8‚“Óñ1J$eb0a9b4a-b7ba-45fb-9e74-518c327afd72
+v
+java:S1118":Add a private constructor to hide the implicit public one.(Î¨—ñJ$09af9125-c7ce-454e-8839-065599839282
+	java:S100K"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÏÙÛÃûÿÿÿÿJ$23258975-c591-432a-bb08-4adaf313db1d

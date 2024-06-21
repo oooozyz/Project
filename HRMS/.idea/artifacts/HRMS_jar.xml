@@ -1,0 +1,15 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="HRMS:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/HRMS_jar</output-path>
+    <root id="archive" name="HRMS.jar">
+      <element id="module-output" name="HRMS" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib_camera/slf4j-api-1.7.9.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/ArcFace/arcsoft-sdk-face-3.0.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib_camera/bridj-0.6.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib_camera/webcam-capture-0.3.10.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib_camera/log4j-1.2.12.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib_camera/slf4j-log4j12-1.7.9.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/MySQL/mysql-connector-java-8.0.23.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

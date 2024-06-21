@@ -1,0 +1,23 @@
+
+	java:S112º"FDefine and throw a dedicated exception instead of using a generic one.(¼ÿ¾¹ÿÿÿÿÿ8×Èşàÿ1J$1469a004-4698-4cab-a38c-6d931a885ab3
+’	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ı›ìs8İÈşàÿ1J$a6eef83c-51d9-4433-bdfa-29e1c924746a
+p
+java:S1604K"(Make this anonymous inner class a lambda(ÁšÑùÿÿÿÿ8ßÈşàÿ1J$cdcc33d2-3e64-43ca-acc9-13df559894db
+p
+java:S1604X"(Make this anonymous inner class a lambda(Ã“Šìúÿÿÿÿ8àÈşàÿ1J$46cfe2d3-47b0-41fa-ad04-6a88122ba4d8
+k
+java:S1604e"(Make this anonymous inner class a lambda(ùÇ‚8àÈşàÿ1J$4b5eee9a-6cbf-40e9-a021-eebcb73fee97
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Î‹üş8äÈşàÿ1J$798c576f-253b-4e69-af9e-f2084d4403fe
+—	java:S116"PRename this field "Clock" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õ»£…øÿÿÿÿ8»Éşàÿ1J$aaafcfac-ffec-431c-817d-351edc1c2225
+œ	java:S116"URename this field "AdminLogin" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»…ÂÖüÿÿÿÿ8»Éşàÿ1J$8d3a805a-6efc-4171-b067-28c6cb4b5ded
+™	java:S116"XRename this field "EmployeeLogin" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ô‘ù78»Éşàÿ1J$90085391-f8c4-4479-a0fa-efc504b2e414
+m
+java:S1948"%Make "dft" transient or serializable.(Àäˆ‚ûÿÿÿÿ8ÅÉşàÿ1J$24131eaa-12b2-4ebe-97cb-b5ec32b41141
+š
+java:S3776J"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(¨è†ùÿÿÿÿ8ÚÉşàÿ1J$32ae49e4-4b2b-422d-a76d-f03839d44203
+}
+java:S1161n":Add the "@Override" annotation above this method signature(“–ış8ôÉşàÿ1J$463a8e9f-664b-42eb-907b-0f1ad65df84b
+]
+java:S3626|"Remove this redundant jump.(Ìß€;8öÉşàÿ1J$bfb23eff-7a48-4bfa-a919-0679f921dd39
+–
+java:S3776£"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(“–ış8€Êşàÿ1J$15f9218a-e2b5-41ba-a58f-4265405a7b65
